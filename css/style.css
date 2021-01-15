@@ -30,14 +30,14 @@ h1{
 /* fine header */
 main{
   position: relative;
-  left:260px;
+  left:300px;
 }
 
 .pattern{
   background-image: url(../img/pattern.png);
 background-size: contain;
-height: 200px;
-width: 150px;
+height: 131px;
+width:130px;
 border-radius: 10px;
 display:inline-block;
 margin-left: 1%;
@@ -46,242 +46,103 @@ margin-top: 40px;
 
 }
 
-.pattern:hover{
+
+
+}
+
+.pattern.pattern1:hover{
 background-image: url(../img/noun_air_balloon_3134741.png);
 background-size:contain;
 
 
 }
-.pattern1{
-  background-image: url(../img/pattern.png);
-background-size: contain;
-height: 200px;
-width: 150px;
-border-radius: 10px;
-display:inline-block;
-margin-left: 1%;
-margin-top: 40px;
+
+.pattern.pattern2:hover{
+background-image: url(../img/noun_Bicycle_3134821.png);
+background-size:contain;
+
 
 
 }
 
-.pattern1:hover{
+
+.pattern.pattern3:hover{
+background-image: url(../img/noun_Cruise_Ship_3134824.png);
+background-size:contain;
+
+
+}
+
+
+
+.pattern.pattern4:hover{
+background-image: url(../img/noun_Submarine_3134738.png);
+background-size:contain;
+
+
+}
+.pattern.pattern5:hover{
+background-image: url(../img/noun_Bicycle_3134821.png);
+background-size:contain;
+
+
+}
+.pattern.pattern6:hover{
+background-image: url(../img/noun_Bicycle_3134821.png);
+background-size:contain;
+
+
+}
+
+.pattern.pattern7:hover{
+background-image: url(../img/noun_Cruise_Ship_3134824.png);
+background-size:contain;
+
+
+}
+
+
+.pattern.pattern8:hover{
+background-image: url(../img/noun_Submarine_3134738.png);
+background-size:contain;
+
+
+}
+
+.pattern.patterna:hover{
+background-image: url(../img/noun_Bicycle_3134821.png);
+background-size:contain;
+
+
+}
+
+.pattern.patternb:hover{
 background-image: url(../img/noun_air_balloon_3134741.png);
 background-size:contain;
 
 
 }
-.pattern2{
-  background-image: url(../img/pattern.png);
-background-size: contain;
-height: 200px;
-width: 150px;
-border-radius: 10px;
-display:inline-block;
-margin-left: 1%;
-margin-top: 40px;
-
-
-}
-
-.pattern2:hover{
-background-image: url(../img/noun_Bycicle_3134821.png);
-background-size:cover;
-
-
-}
-.pattern3{
-  background-image: url(../img/pattern.png);
-background-size: contain;
-height: 200px;
-width: 150px;
-border-radius: 10px;
-display:inline-block;
-margin-left: 1%;
-margin-top: 40px;
-
-
-}
-
-.pattern3:hover{
-background-image: url(../img/noun_air_balloon_3134741.png);
+.pattern.patternc:hover{
+background-image: url(../img/noun_Cruise_Ship_3134824.png);
 background-size:contain;
 
 
 }
-.pattern4{
-  background-image: url(../img/pattern.png);
-background-size: contain;
-height: 200px;
-width: 150px;
-border-radius: 10px;
-display:inline-block;
-margin-left: 1%;
-margin-top: 40px;
-
-
-}
-
-.pattern4:hover{
-background-image: url(../img/noun_air_balloon_3134741.png);
-background-size:contain;
-
-
-}
-.pattern5{
-  background-image: url(../img/pattern.png);
-background-size: contain;
-height: 200px;
-width: 150px;
-border-radius: 10px;
-display:inline-block;
-margin-left: 1%;
-margin-top: 40px;
-
-
-}
-
-.pattern5:hover{
-background-image: url(../img/noun_air_balloon_3134741.png);
-background-size:contain;
-
-
-}
-.pattern6{
-  background-image: url(../img/pattern.png);
-background-size: contain;
-height: 200px;
-width: 150px;
-border-radius: 10px;
-display:inline-block;
-margin-left: 1%;
-margin-top: 40px;
-
-
-}
-
-.pattern6:hover{
-background-image: url(../img/noun_air_balloon_3134741.png);
-background-size:contain;
-
-
-}
-.pattern7{
-  background-image: url(../img/pattern.png);
-background-size: contain;
-height: 200px;
-width: 150px;
-border-radius: 10px;
-display:inline-block;
-margin-left: 1%;
-margin-top: 40px;
-
-
-}
-
-.pattern7:hover{
-background-image: url(../img/noun_air_balloon_3134741.png);
-background-size:contain;
-
-
-}
-.pattern8{
-  background-image: url(../img/pattern.png);
-background-size: contain;
-height: 200px;
-width: 150px;
-border-radius: 10px;
-display:inline-block;
-margin-left: 1%;
-margin-top: 40px;
-
-
-}
-
-.pattern8:hover{
-background-image: url(../img/noun_air_balloon_3134741.png);
-background-size:contain;
-
-
-}
-.patterna{
-  background-image: url(../img/pattern.png);
-background-size: contain;
-height: 200px;
-width: 150px;
-border-radius: 10px;
-display:inline-block;
-margin-left: 1%;
-margin-top: 40px;
-
-
-}
-
-.patterna:hover{
-background-image: url(../img/noun_air_balloon_3134741.png);
-background-size:contain;
-
-
-}
-.patternb{
-  background-image: url(../img/pattern.png);
-background-size: contain;
-height: 200px;
-width: 150px;
-border-radius: 10px;
-display:inline-block;
-margin-left: 1%;
-margin-top: 40px;
-
-
-}
-
-.patternb:hover{
-background-image: url(../img/noun_air_balloon_3134741.png);
-background-size:contain;
-
-
-}
-.patternc{
-  background-image: url(../img/pattern.png);
-background-size: contain;
-height: 200px;
-width: 150px;
-border-radius: 10px;
-display:inline-block;
-margin-left: 1%;
-margin-top: 40px;
-
-
-}
-
-.patternc:hover{
-background-image: url(../img/noun_air_balloon_3134741.png);
-background-size:contain;
-
-
-}
-.patternd{
-  background-image: url(../img/pattern.png);
-background-size: contain;
-height: 200px;
-width: 150px;
-border-radius: 10px;
-display:inline-block;
-margin-left: 1%;
-margin-top: 40px;
-
-
-}
-
-.patternd:hover{
-background-image: url(../img/noun_air_balloon_3134741.png);
+.pattern.patternd:hover{
+background-image: url(../img/noun_Submarine_3134738.png);
 background-size:contain;
 
 
 }
 /* footer */
 footer{
+  margin-left: 40%;
+  margin-top: 2%
+
+}
+
+footer:hover{
+  color: rgb(167, 217, 241)
   margin-left: 40%;
   margin-top: 2%
 
