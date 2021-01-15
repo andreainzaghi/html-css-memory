@@ -53,13 +53,14 @@ margin-top: 40px;
 .pattern.pattern1:hover{
 background-image: url(../img/noun_air_balloon_3134741.png);
 background-size:contain;
-
+background-color: white;
 
 }
 
 .pattern.pattern2:hover{
 background-image: url(../img/noun_Bicycle_3134821.png);
 background-size:contain;
+background-color: white;
 
 
 
@@ -69,6 +70,7 @@ background-size:contain;
 .pattern.pattern3:hover{
 background-image: url(../img/noun_Cruise_Ship_3134824.png);
 background-size:contain;
+background-color: white;
 
 
 }
@@ -78,26 +80,26 @@ background-size:contain;
 .pattern.pattern4:hover{
 background-image: url(../img/noun_Submarine_3134738.png);
 background-size:contain;
-
+background-color: white;
 
 }
 .pattern.pattern5:hover{
 background-image: url(../img/noun_Bicycle_3134821.png);
 background-size:contain;
-
+background-color: white;
 
 }
 .pattern.pattern6:hover{
 background-image: url(../img/noun_Bicycle_3134821.png);
 background-size:contain;
-
+background-color: white;
 
 }
 
 .pattern.pattern7:hover{
 background-image: url(../img/noun_Cruise_Ship_3134824.png);
 background-size:contain;
-
+background-color: white;
 
 }
 
@@ -105,33 +107,33 @@ background-size:contain;
 .pattern.pattern8:hover{
 background-image: url(../img/noun_Submarine_3134738.png);
 background-size:contain;
-
+background-color: white;
 
 }
 
 .pattern.patterna:hover{
 background-image: url(../img/noun_Bicycle_3134821.png);
 background-size:contain;
-
+background-color: white;
 
 }
 
 .pattern.patternb:hover{
 background-image: url(../img/noun_air_balloon_3134741.png);
 background-size:contain;
-
+background-color: white;
 
 }
 .pattern.patternc:hover{
 background-image: url(../img/noun_Cruise_Ship_3134824.png);
 background-size:contain;
-
+background-color: white;
 
 }
 .pattern.patternd:hover{
 background-image: url(../img/noun_Submarine_3134738.png);
 background-size:contain;
-
+background-color: white;
 
 }
 /* footer */
