@@ -45,6 +45,32 @@ margin-top: 40px;
 
 
 }
+.patternfig{
+  background-image: url(../img/noun_Cruise_Ship_3134824.png);
+background-size: contain;
+background-color: white;
+height: 131px;
+width:130px;
+border-radius: 10px;
+display:inline-block;
+margin-left: 1%;
+margin-top: 40px;
+
+
+}
+
+
+.boat{
+  position:absolute;
+left:200px;
+top:312px;
+  text-shadow: 1px 1px 1px black, 0 0 4px blue, 0 0 2px darkblue;
+color: white;
+
+
+}
+
+
 
 
 
