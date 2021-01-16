@@ -6,7 +6,8 @@
  }
 
  body{
-  background-color: #A7D9F1;
+  background-image: url(../img/tramonto.jpg);
+  background-size: cover;
  }
 
 
